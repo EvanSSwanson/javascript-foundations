@@ -19,5 +19,4 @@ eat() {
 }
 }
 
-
 module.exports = Dragon;
